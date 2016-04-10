@@ -5,7 +5,9 @@
 ![Acitivity Lifecycle](http://www.vogella.com/tutorials/AndroidLifeCycle/images/xactivity_lifecycle10.png.pagespeed.ic.fPEkTDwujN.png)
 
 > Java code
-```sh
+
+
+```java
 @Override
     protected void onPause() {
         super.onPause();
@@ -35,7 +37,7 @@
 ## Intents
 >Android Intent can be defined as a simple message objects which is used to communicate from 1 activity to another. Intents define intention of an Application . They are also used to transfer data between activities
 
-```sh
+```java
 /* Open another activity */
 Intent i = new Intent(getApplicationContext(), Activity2.class);
 startActivity(i);
