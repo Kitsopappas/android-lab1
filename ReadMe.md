@@ -1,4 +1,4 @@
-## Android Lab 1 ![Acitivity Lifecycle](https://drslash.com/wp-content/uploads/2014/11/Android-Studio.png)
+## Android Lab 1 ![Acitivity Lifecycle](https://raw.githubusercontent.com/Kitsopappas/android-lab1/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 >Christodoulos Pappas
 
 [![Build status](https://ci.appveyor.com/api/projects/status/1tkktwh654w07eim?svg=true)](https://ci.appveyor.com/project/Atom/atom)
