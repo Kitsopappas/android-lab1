@@ -46,3 +46,9 @@ startActivity(i);
 Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
 startActivity(browserIntent);
 ```
+
+## Icons used
+
+| Facebook        | Google         | Twitter       | LinkedIn       |
+|:--------------:|:--------------:|:--------------:|:--------------:|
+|![icon](https://github.com/Kitsopappas/android-lab1/blob/master/app/src/main/res/drawable/facebook.png)|![icon](https://github.com/Kitsopappas/android-lab1/blob/master/app/src/main/res/drawable/google.png) | ![icon](https://github.com/Kitsopappas/android-lab1/blob/master/app/src/main/res/drawable/twitter.png) |![icon](https://github.com/Kitsopappas/android-lab1/blob/master/app/src/main/res/drawable/linkedin.png)|
