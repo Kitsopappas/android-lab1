@@ -1,5 +1,8 @@
-## Android Lab 1
+## Android Lab 1 ![Acitivity Lifecycle](https://drslash.com/wp-content/uploads/2014/11/Android-Studio.png)
 >Christodoulos Pappas
+
+[![Build status](https://ci.appveyor.com/api/projects/status/1tkktwh654w07eim?svg=true)](https://ci.appveyor.com/project/Atom/atom)
+[![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
 
 ## Activity Life Cycle
 ![Acitivity Lifecycle](http://www.vogella.com/tutorials/AndroidLifeCycle/images/xactivity_lifecycle10.png.pagespeed.ic.fPEkTDwujN.png)
